@@ -1,0 +1,1 @@
+import{O as e,a as t}from"./index-BFkOD67z.js";var n=t(`bazi`,()=>{let t=e(null);function n(e){t.value=e}function r(){t.value=null}return{baziData:t,setData:n,clear:r}});export{n as t};
